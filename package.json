@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na nlw (Next Level Weel), evento realizado pela RocketSeat no intuito de dar um aprendizado imersivo de várias tecologias modernas bastante requisitadas pelo mercado. O Ecoleta é um marketplace para coleta de resíduos, no qual uma empresa divulga um centro de coleta e o cidadão interessado pode ter  acesso ao local mais próximo da sua casa. Para dessa forma a empresa poder destinar esse resíduo à um local adequado.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-dasilvasousa/Ecoleta-nlw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-dasilvasousa/Ecoleta-nlw/issues"
+  },
+  "homepage": "https://github.com/gabriel-dasilvasousa/Ecoleta-nlw#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
