@@ -36,4 +36,4 @@ npm start
 
 Gabriel – [@gabriel-dasilvasousa](https://linkedin.com/gabriel-dasilvasousa)
 
-[https://github.com/gabriel-dasilvasousa/Ecoleta-nlw](https://github.com/othonalberto/)
+[https://github.com/gabriel-dasilvasousa](https://github.com/gabriel-dasilvasousa)
